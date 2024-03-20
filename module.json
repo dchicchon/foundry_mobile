@@ -1,0 +1,21 @@
+{
+  "name": "foundry_mobile",
+  "title": "foundry_mobile",
+  "description": "simple foundry mobile app",
+  "authors": [
+    {
+      "name": "dchicchon"
+    }
+  ],
+  "esmodules": ["scripts/mobile.js"],
+  "version": "0",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": ["styles/mobile.css"],
+  "minimumCoreVersion": "0.8.8"
+}
