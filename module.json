@@ -13,13 +13,8 @@
     "minimum": "10",
     "verified": "11"
   },
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
   "styles": ["styles/mobile.css"],
-  "minimumCoreVersion": "0.8.8"
+  "minimumCoreVersion": "0.8.8",
+  "mainfest": "https://raw.githubusercontent.com/dchicchon/foundry_mobile/main/module.json",
+  "url": "https://github.com/dchicchon/foundry_mobile"
 }
