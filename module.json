@@ -1,5 +1,5 @@
 {
-  "name": "foundry_mobile",
+  "id": "foundry_mobile",
   "title": "foundry_mobile",
   "description": "simple foundry mobile app",
   "authors": [
@@ -9,6 +9,10 @@
   ],
   "esmodules": ["scripts/mobile.js"],
   "version": "0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
   "languages": [
     {
       "lang": "en",
